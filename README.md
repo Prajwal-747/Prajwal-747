@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajwal-747
 - 👀 I’m interested in Programming, Robotics, RC stuff, and games.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 🫂 I’m looking to collaborate on Python Projects
 - 📫 How to reach me: Discord at prajwalsr
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Human
